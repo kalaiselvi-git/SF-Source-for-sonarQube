@@ -1,0 +1,23 @@
+SonarQube plugins:
+  - C# 5.10.1.1411 (csharp)
+  - SonarPython 1.8.0.1496 (python)
+  - SonarJava 4.12.0.11033 (java)
+  - Flex 2.3 (flex)
+  - Git 1.2 (scmgit)
+  - SonarXML 1.4.3.1027 (xml)
+  - SonarPHP 2.10.0.2087 (php)
+  - SVN 1.5.0.715 (scmsvn)
+  - SonarJS 3.1.1.5128 (javascript)
+Global properties:
+  - sonar.core.id=AV5113gWJtldoTrYk4aJ
+  - sonar.core.startTime=2017-09-12T16:56:48+0530
+Settings for module: Test_Sonar_Scanner
+  - sonar.host.url=http://localhost:9000
+  - sonar.login=******
+  - sonar.password=******
+  - sonar.projectBaseDir=D:\Sonarqube\src
+  - sonar.projectKey=Test_Sonar_Scanner
+  - sonar.projectName=Test_Sonar_Scanner
+  - sonar.sourceEncoding=UTF-8
+  - sonar.sources=D:/Sonarqube
+  - sonar.working.directory=D:\Sonarqube\src\.scannerwork
