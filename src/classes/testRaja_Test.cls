@@ -1,5 +1,5 @@
 @isTest
-private class TestRaja_Test {
+private class testRaja_Test {
   
     static testmethod void checkCredentialMethod()
     {
